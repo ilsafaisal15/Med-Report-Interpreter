@@ -34,6 +34,10 @@ https://huggingface.co/spaces/ilsa15/Report-Interpreter
 | File Parsing| `PyPDF2`                             |
 
 
+![App Screenshot]![Uploading image.png…]()
+
+
+
 
 
 
