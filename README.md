@@ -34,7 +34,7 @@ https://huggingface.co/spaces/ilsa15/Report-Interpreter
 | File Parsing| `PyPDF2`                             |
 
 
-![App Screenshot](screenshot.png)
+![App Screenshot]: Screenshot 2025-07-16 011128.png
 
 
 
